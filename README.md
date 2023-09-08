@@ -68,6 +68,27 @@
     ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
     ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+<!--- Estadisticas-->
+<p align="center">
+    <table align="center">
+        <tr border="none">
+            <td width="50%" align="center">
+                <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SegundoPaladines&theme=dark&show_icons=true&count_private=true" />
+                <br></br>
+                <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SegundoPaladines&theme=dark&hide_border=false" /> 
+            </td>
+            <td width="50%" align="center">
+            <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SegundoPaladines&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+            </td>
+        </tr>
+    </table>
+
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=SegundoPaladines&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+
 <h2 align="left">
     Connect with Me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 </h2>
