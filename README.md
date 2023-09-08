@@ -71,4 +71,7 @@
     Connect with Me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 </h2>
 
+<a href="mailto:segundopaladines@gmail.com">
+    ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</a>
 
