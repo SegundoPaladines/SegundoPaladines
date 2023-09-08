@@ -22,5 +22,6 @@
         - I am currently open to any job opportunities. 💼🌟
 
         - I enjoy both frontend and backend development. 🌐🚀
+        
     </div>
 </center>
