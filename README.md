@@ -6,6 +6,8 @@
     </h1>
 </div>
 
+![Segundo Paladines2](https://github.com/SegundoPaladines/SegundoPaladines/assets/99047308/f7b3cb61-6d8a-4519-971e-d37eb5f8fb75)
+
 <h2 align="left">
         About Me
 </h2>
