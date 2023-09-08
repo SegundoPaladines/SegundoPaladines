@@ -1,3 +1,4 @@
+ ![visitors](visitor-badge.laobi.icu/badge?page_id=SegundoPaladines.SegundoPaladines)
 <center>
     <div>
         <h2 class="titulo1">Hi There, I´m am</h2>
