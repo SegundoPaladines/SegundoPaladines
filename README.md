@@ -6,4 +6,9 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1C883B&repeat=false&width=380&lines=Welcome+to+my+GitHub+Repository" alt="Typing SVG" />
         </h1>
     </div>
+    <div>
+        <h2 align="left">
+            About Me
+        </h2>
+    </div>
 </center>
