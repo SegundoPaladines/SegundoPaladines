@@ -69,6 +69,10 @@
     ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 <!--- Estadisticas-->
+<h2 align="left">
+    Github Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2> 
+
 <p align="center">
     <table align="center" border="none">
         <tr border="none">
