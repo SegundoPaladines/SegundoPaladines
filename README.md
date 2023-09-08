@@ -1,12 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SegundoPaladines.SegundoPaladines"/>
-<center>
-    <div>
-        <h2 align="center">Hi there, i'm Segundo Paladines <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
-        <h1 align="center">
+
+<div>
+    <h2 align="center">Hi there, i'm Segundo Paladines <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+    <h1 align="center">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1C883B&repeat=false&width=380&lines=Welcome+to+my+GitHub+Repository" alt="Typing SVG" />
-        </h1>
-    </div>
-</center> 
+    </h1>
+</div>
+
 <h2 align="left">
         About Me
 </h2>
@@ -114,4 +114,3 @@
     - Email: segundopaladines@gmail.com
     - Cel: (+57) 3147856561
     - Linkedin: segundo-paladines-ortiz-b60216257
-
