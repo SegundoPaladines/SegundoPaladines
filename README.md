@@ -6,6 +6,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1C883B&repeat=false&width=380&lines=Welcome+to+my+GitHub+Repository" alt="Typing SVG" />
         </h1>
     </div>
+
     <div>
         <h2 align="left">
             About Me
@@ -22,6 +23,5 @@
         - I am currently open to any job opportunities. 💼🌟
 
         - I enjoy both frontend and backend development. 🌐🚀
-        
     </div>
 </center>
