@@ -6,22 +6,19 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1C883B&repeat=false&width=380&lines=Welcome+to+my+GitHub+Repository" alt="Typing SVG" />
         </h1>
     </div>
+</center> 
+<h2 align="left">
+        About Me
+</h2>
 
-    <div>
-        <h2 align="left">
-            About Me
-        </h2>
+- I am a student of Systems Engineering at the University of Nariño. 📚🎓
 
-        - I am a student of Systems Engineering at the University of Nariño. 📚🎓
+- I am Colombian.
 
-        - I am Colombian.
+- I am passionate about software development. 💻❤️
 
-        - I am passionate about software development. 💻❤️
+- I enjoy continuous learning. 📖🧠
 
-        - I enjoy continuous learning. 📖🧠
+- I am currently open to any job opportunities. 💼🌟
 
-        - I am currently open to any job opportunities. 💼🌟
-
-        - I enjoy both frontend and backend development. 🌐🚀
-    </div>
-</center>
+- I enjoy both frontend and backend development. 🌐🚀
