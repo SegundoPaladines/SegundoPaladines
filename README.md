@@ -1,6 +1,6 @@
 <div  class="title-container">
         <section>
-            <video src="/src/videos/humo.mp4" autoplay muted></video>
+            <video src="https://github.com/SegundoPaladines/SegundoPaladines/assets/99047308/7cabd225-44f8-4720-8221-74b1dbaa5f24" autoplay muted></video>
             <h2 class="titulo1">Hi There</h2>
             <h1>
                 <span>S</span>
