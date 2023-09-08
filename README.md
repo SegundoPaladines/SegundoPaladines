@@ -74,8 +74,8 @@
 </h2> 
 
 <p align="center">
-    <table border="none" align="center">
-        <tr>
+    <table align="center">
+        <tr  border="none">
             <td width="50%" align="center">
                 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SegundoPaladines&theme=tokyonight&show_icons=true&count_private=true" />
                 <br></br>
