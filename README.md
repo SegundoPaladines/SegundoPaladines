@@ -10,5 +10,13 @@
         <h2 align="left">
             About Me
         </h2>
+        <p align="left">
+            *I am a student of Systems Engineering at the University of Nariño. 📚🎓
+            *I am Colombian.
+            *I am passionate about software development. 💻❤️
+            *I enjoy continuous learning. 📖🧠
+            *I am currently open to any job opportunities. 💼🌟
+            *I enjoy both frontend and backend development. 🌐🚀
+        </p>
     </div>
 </center>
