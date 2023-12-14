@@ -120,5 +120,6 @@
 - **Directory**:
 
     - Email: segundopaladines@gmail.com
+    - Presentation Page: [segundopaladines.github.io](https://segundopaladines.github.io/)
     - Cel: (+57) 3147856561
     - Linkedin: segundo-paladines-ortiz-b60216257
