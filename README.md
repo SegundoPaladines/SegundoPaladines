@@ -12,7 +12,7 @@
         About Me
 </h2>
 
-- I am a student of Systems Engineering at the University of Nariño. 📚🎓
+- I am a Systems Engineering at the University of Nariño. 📚🎓
 - I am Colombian.
 - I am passionate about software development. 💻❤️
 - I enjoy continuous learning. 📖🧠
