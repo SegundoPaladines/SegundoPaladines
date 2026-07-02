@@ -154,8 +154,8 @@ I build **agentic** and **retrieval-augmented** systems end to end — from orch
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SegundoPaladines&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SegundoPaladines&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
+    <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SegundoPaladines&theme=tokyonight" alt="GitHub Stats" />
+    <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SegundoPaladines&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
